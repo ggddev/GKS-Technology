@@ -343,7 +343,7 @@ details p{
 
     .modal-reflexao p, .modal-consc p, .modal-plan p, .modal-acao p {
         width: 300px;
-        margin-left: 50%;
+        margin-left: 25%;
         margin-top: -80px;
     }
 }
