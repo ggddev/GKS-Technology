@@ -294,7 +294,7 @@ details p{
     #descricao{
         font-size: 45px;
         text-align: center;
-        margin-left: 15%;
+        margin-left: 25%;
     }
 
     .descAndCarousel{
@@ -343,7 +343,7 @@ details p{
 
     .modal-reflexao p, .modal-consc p, .modal-plan p, .modal-acao p {
         width: 300px;
-        margin-left: 60px;
+        margin-left: 15%;
         margin-top: -80px;
     }
 }
